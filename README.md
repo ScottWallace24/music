@@ -6,6 +6,7 @@
 </ head >
 <body >!
 <img src="Music Website.jpg"/>
+<img src="Kangaroo.gif"/>
 
 <h1 > Scottish singer/songwriter making contemporary-pop songs with classic blues stylings. </ h1 >
 </ body >
